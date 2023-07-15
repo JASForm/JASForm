@@ -1,9 +1,5 @@
 ![Twitter header - 1](https://github.com/JASForm/JASForm/assets/139604201/e91d8283-f872-421f-8370-c5ef9ce46de7)
 
-# JASForm
-
-## Description
-
 JASForm is a powerful Dynamic Form Creation System that allows users to easily create and manage dynamic forms for various purposes. Whether you need to create surveys, collect feedback, track patient information, or generate statistics, JASForm provides a user-friendly interface and robust features to meet your form creation needs.
 
 ## Features
